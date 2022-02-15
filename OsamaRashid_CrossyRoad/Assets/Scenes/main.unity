@@ -346,7 +346,7 @@ MonoBehaviour:
   _zRight: 42.2
   _zLeft: 44.2
   _spawnTimeR: 5
-  _spawnTimeL: 4
+  _spawnTimeL: 6
 --- !u!4 &62585337
 Transform:
   m_ObjectHideFlags: 0
@@ -1036,7 +1036,7 @@ MonoBehaviour:
   _vehicle: {fileID: 7119553642098294198, guid: ace4839b23ad64340a2fc19af9abd4fc, type: 3}
   _zRight: 24.2
   _zLeft: 26.2
-  _spawnTimeR: 4
+  _spawnTimeR: 5
   _spawnTimeL: 6
 --- !u!4 &847179615
 Transform:
@@ -2043,7 +2043,7 @@ MonoBehaviour:
   _vehicle: {fileID: 7119553642098294198, guid: ace4839b23ad64340a2fc19af9abd4fc, type: 3}
   _zRight: 0
   _zLeft: 2
-  _spawnTimeR: 3
+  _spawnTimeR: 5
   _spawnTimeL: 6
 --- !u!1 &1574936361
 GameObject:
@@ -2449,7 +2449,7 @@ MonoBehaviour:
   _zRight: 18.2
   _zLeft: 20.2
   _spawnTimeR: 7
-  _spawnTimeL: 4
+  _spawnTimeL: 7
 --- !u!4 &1871553276
 Transform:
   m_ObjectHideFlags: 0
