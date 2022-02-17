@@ -5,6 +5,7 @@ using UnityEngine;
 public class vehicle : MonoBehaviour
 {
     [SerializeField] private float _leftMoveSpeed = 0.03f;
+
     void Update()
     {
         Movement();
